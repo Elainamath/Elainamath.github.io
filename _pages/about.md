@@ -9,12 +9,11 @@ redirect_from:
 
 Welcome to my homepage! (Last edited in Feb. 2024)
 
-I am Yanzhe Wang (王彦喆), a junior student from [School of Mathematical Sciences](https://www.math.pku.edu.cn), [Peking University](https://pku.edu.cn), major in Mathematics and Applied Mathematics.
+I am Mingchong Li (李鸣翀), a junior student from [School of Mathematical Sciences](https://www.math.pku.edu.cn), [Peking University](https://pku.edu.cn), major in Mathematics and Applied Mathematics.
 
-I have a wide range of interests in Machine Learning and Quantitative Finance. Previously, I have interned as a quantitative researcher at Tongdeng Capital and Lianhai Capital, and will be joining Jane Street as a quantitative trader intern in the upcoming summer of 2024. 
+I have a wide range of interests in algebraic Geometry and complex Geometry. Right now I'm trying to apply to grad school in Europe or the US in the field of algebraic geometry.
 
-I have conducted research on high-frequency pricing models under the guidance of Prof. Ruixun Zhang, and have conducted empirical research on the volatility of options in the Chinese market under the guidance of Prof. Alan Anderson from NYU.
+I have conducted research on derived category under the guidance of Prof. Bohan Fang and I'm still in the reading and learning stage.
 
-I am a super fan of Pokémon! Check out [Pokémon](https://iceleafzzz.github.io/pokemon) for more information!
 
-You can learn more about me from my [CV](https://iceleafzzz.github.io/cv) and [experiences](https://iceleafzzz.github.io/experiences). Feel free to contact me if you have anything to chat!
+You can learn more about me from my [CV](https://elainamath.github.io/cv) and [researches](https://elainamath.github.io/researches). Feel free to contact me if you have anything to chat!
